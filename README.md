@@ -1,4 +1,4 @@
-- 👋 Hi, I’m iheb a 
+- 👋 Hi, I’m iheb 
 - 👀 I’m interested in software industry and building apps to solve problems
 - 🌱 I’m currently self-learning computer science.
 
